@@ -1,6 +1,6 @@
-opkg [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux ./
-opkg [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux/opkg ./
-opkg [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux/opkg/Packages ./
+ipk [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux ./
+ipk [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux/opkg ./
+ipk [trusted=yes] http://git.silvioramalhoneto.xyz/SilvioLinux/opkg/Packages ./
 
-opkg http://security.silvioramalhoneto.xyz/silviolinux ./
+ipk http://security.silvioramalhoneto.xyz/silviolinux ./
 
